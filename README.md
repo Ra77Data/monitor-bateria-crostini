@@ -9,13 +9,7 @@ Este pequeño script en Python te permite visualizar el estado de la batería de
 
 ### Instalación
 
-1. **Clonar el repositorio:**
-   ```bash
-   git clone https://github.com/tu_usuario/monitor-bateria-crostini.git
-   cd monitor-bateria-crostini
-   ```
-
-2. **Instalar las bibliotecas necesarias:**
+ **Instalar las bibliotecas necesarias:**
    ```bash
    sudo apt update
    sudo apt install python3 python3-tk python3-psutil python3-matplotlib
@@ -23,12 +17,7 @@ Este pequeño script en Python te permite visualizar el estado de la batería de
 
 ### Ejecución
 
-1. **Navegar hasta la carpeta del proyecto:**
-   ```bash
-   cd monitor-bateria-crostini
-   ```
-
-2. **Ejecutar el script:**
+ **Ejecutar el script:**
    ```bash
    python3 estado_bateria.py
    ```
@@ -41,7 +30,7 @@ Este pequeño script en Python te permite visualizar el estado de la batería de
 
 ### Autor 
 
-Ra77Data
+@Ra77Data
 
 ### Licencia 
 
